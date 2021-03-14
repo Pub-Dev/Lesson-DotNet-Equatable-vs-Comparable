@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PubDev.EquatableVsComparable", "src\PubDev.EquatableVsComparable\PubDev.EquatableVsComparable.csproj", "{61F6C7D8-C6A2-46E9-88E5-8E3344E55019}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{195F4C81-58DE-46DF-BEBF-4AAF67F82D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87BCB44A-3653-4F66-A436-C76D91CDD01A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F6C7D8-C6A2-46E9-88E5-8E3344E55019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F6C7D8-C6A2-46E9-88E5-8E3344E55019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F6C7D8-C6A2-46E9-88E5-8E3344E55019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F6C7D8-C6A2-46E9-88E5-8E3344E55019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61F6C7D8-C6A2-46E9-88E5-8E3344E55019} = {195F4C81-58DE-46DF-BEBF-4AAF67F82D29}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D645309-FBDB-44C8-ACB6-15A3582FCEF4}
+	EndGlobalSection
+EndGlobal
